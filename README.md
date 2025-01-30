@@ -87,3 +87,20 @@ El frontend estará disponible en `http://localhost:3000`.
 | DELETE  | `/:id`    | Elimina una publicación (solo autor)  | ✅ Sí |
 
 ---
+
+## 🌍 Despliegue en Producción
+
+El proyecto ha sido desplegado y puede probarse en los siguientes enlaces:
+
+🔹 **Frontend (Next.js en Vercel)**:  
+👉 [https://test-jhmfpgklz-santiolacireguis-projects.vercel.app/](https://test-jhmfpgklz-santiolacireguis-projects.vercel.app/)
+
+🔹 **Backend (Node.js en Render)**:  
+👉 [https://test-nz8m.onrender.com/api](https://test-nz8m.onrender.com/api)
+
+### 📝 Registro de usuario
+
+Para registrarse por primera vez en el sistema, acceda al frontend y agregue `/register` en la URL:
+
+👉 [https://test-jhmfpgklz-santiolacireguis-projects.vercel.app/register](https://test-jhmfpgklz-santiolacireguis-projects.vercel.app/register)
+
